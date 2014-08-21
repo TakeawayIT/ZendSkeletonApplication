@@ -6,6 +6,7 @@ return array(
         'ZendDeveloperTools',
         'DoctrineModule',
         'DoctrineORMModule',
+        'OcraServiceManager'
     ),
 
     // These are various options for the listeners attached to the ModuleManager
